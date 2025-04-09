@@ -99,10 +99,6 @@ Weather Dashboard is live and ready for you to explore! Visit [Weather Dashboard
 
 [Yashraj](https://github.com/YASH-3105)
 
-<!--Licence-->
-## LICENSE
-
-This project is distributed under MIT License read `LICENSE` file for more details.
 
 
 ## Credits
