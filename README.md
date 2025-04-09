@@ -90,9 +90,7 @@ npm start
 We welcome contributions! If you'd like to contribute to Weather Dashboard, please follow our [Contribution Guidelines](https://github.com/YASH-3105/Weather-Dashboard/blob/main/CONTRIBUTING.md).
 
 
-## Deploy
 
-Weather Dashboard is live and ready for you to explore! Visit [Weather Dashboard](https://yash-3105.github.io/Weather-Dashboard/)
 
 
 ## Author
